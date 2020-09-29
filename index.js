@@ -6,7 +6,7 @@ class Tree{
   }
 
 
-stratic definition(){
+static definition(){
 
   return 'trees'
 }
