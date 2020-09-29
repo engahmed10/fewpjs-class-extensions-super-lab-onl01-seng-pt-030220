@@ -1,5 +1,6 @@
 // Write your classes here
-class Tree
+class Tree{
 
 
-end
+  
+}
