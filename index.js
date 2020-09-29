@@ -6,5 +6,10 @@ class Tree{
   }
 
 
+stratic definition(){
+
+  return 'trees'
+}
+
 
 }
